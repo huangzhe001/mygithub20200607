@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../code-template/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_service/changgou_service_rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_user_oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/../springBoot_rabbitmq_delay/pom.xml" />
+        <option value="$PROJECT_DIR$/../fescar_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../fescar_parent/fescar_api/pom.xml" />
+        <option value="$PROJECT_DIR$/../fescar_parent/fescar_business/pom.xml" />
+        <option value="$PROJECT_DIR$/../fescar_parent/fescar_order/pom.xml" />
+        <option value="$PROJECT_DIR$/../fescar_parent/fescar_item/pom.xml" />
+        <option value="$PROJECT_DIR$/../fescar_parent/fescar_user/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou_transaction_fescar/pom.xml" />
+        <option value="$PROJECT_DIR$/../eureka_cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/../eureka_cluster/eureka_server2/pom.xml" />
+        <option value="$PROJECT_DIR$/../eureka_cluster/eureka_server3/pom.xml" />
+        <option value="$PROJECT_DIR$/../mainshiti/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/changgou_service/changgou-service-rabbitmq/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
